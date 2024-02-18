@@ -1,0 +1,37 @@
+html,body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+ 
+}
+
+.page{
+    display: flex;
+}
+
+.left-container{
+margin: 30px;
+
+}
+.nav{
+    font-weight: lighter;
+}
+
+.right-container {
+margin: 30px;
+}
+
+
+.book-image{
+    width: 350px;
+    height: 500px;}
+
+.ratings{
+    margin-left: -10px;
+}
+
+.page-detail{
+    margin: 0;
+    margin-top: 30px;
+    font-size: 18px;
+    }
